@@ -28,7 +28,7 @@ Act 4, trabajando con listas, tuplas, conjuntos y diccionarios
 
 -Resultado
 
-![image](https://github.com/user-attachments/assets/2d40f855-ada1-4823-b3b7-757cccdf1a2c)
+![image](https://github.com/user-attachments/assets/474f38bc-2c6f-497c-aa80-eb90d970b611)
 
 ## Mis Diccionarios
 
